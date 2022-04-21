@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{E891E7E3-081F-47BE-9673-929EB25E5D70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EFCore.WebApi/Startup.cs">
+    <Files>
+      <File FileName="EFCore.WebApi/Models/Batalha.cs" Line="13" Column="63" IsPinned="True" />
+      <File FileName="EFCore.WebApi/Models/Heroi.cs" IsPinned="True" />
+      <File FileName="EFCore.WebApi/Data/HeroiContext.cs" Line="15" Column="1" />
+      <File FileName="EFCore.WebApi/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="EFCore.WebApi/Models/Arma.cs" Line="1" Column="1" />
+      <File FileName="EFCore.WebApi/Models/HeroiBatalha.cs" Line="1" Column="1" />
+      <File FileName="EFCore.WebApi/Models/IdentidadeSecreta.cs" Line="1" Column="1" />
+      <File FileName="EFCore.WebApi/Program.cs" Line="1" Column="1" />
+      <File FileName="EFCore.WebApi/Startup.cs" Line="1" Column="1" />
+      <File FileName="EFCore.WebApi/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EFCore.WebApi" expanded="True">
+            <Node name="EFCore.WebApi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EFCore.WebApi FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
